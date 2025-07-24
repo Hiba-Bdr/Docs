@@ -4,8 +4,8 @@ Recommender systems have been developed in response to the massive expansion of 
 
 Beyond striving to improve user satisfaction, companies also aim to maximize user engagement or align recommendations with their business strategies. Consequently, users’ browsing history and all interactions with online platforms become crucial in defining them as viewers, listeners, readers, or consumers. This raises two major challenges for companies:
 
-1. ** How do recommender systems balance personalization with privacy concerns? **
-2. ** What are the ethical implications of using recommender systems to shape consumer behavior? **
+1. **How do recommender systems balance personalization with privacy concerns?**
+2. **What are the ethical implications of using recommender systems to shape consumer behavior?**
 
 ## General Procedure of a Recommender System
 
