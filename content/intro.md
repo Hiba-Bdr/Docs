@@ -1,5 +1,4 @@
 # Introduction
-
 Recommender systems have been developed in response to the massive expansion of content available online. Indeed, they help reduce the time and effort users must spend to find relevant information among a vast array of options on the Internet. In 2024 alone, approximately **720,000 hours of video** are uploaded to YouTube every day, meaning it would take years for a single user to watch it all (Sources: EarthWeb, DemandSage). Additionally, Spotify offers around 6 million podcasts, **350,000 audiobooks**, and **100 million songs** (Spotify). As for Amazon, the platform lists approximately **600 million products** on its marketplace (amzscout).
 
 Beyond striving to improve user satisfaction, companies also aim to maximize user engagement or align recommendations with their business strategies. Consequently, users’ browsing history and all interactions with online platforms become crucial in defining them as viewers, listeners, readers, or consumers. This raises two major challenges for companies:
