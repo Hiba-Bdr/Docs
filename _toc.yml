@@ -1,6 +1,6 @@
 format: jb-book
-root: content/intro
+root: intro
 
 chapters:
-  - file: content/procedure
-  - file: content/types
+  - file: procedure
+  - file: types
