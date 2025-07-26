@@ -16,5 +16,5 @@ Recommender systems typically consist of three key components:
 
 3. **Re-ranking Systems:** After scoring, the system applies additional constraints and criteria related to the recommendation's objective to refine the list, ultimately producing the final ranked recommendations presented to the user.
 
-the recommendation's objective
+the recommendation's objective.
 
